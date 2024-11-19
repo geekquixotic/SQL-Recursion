@@ -32,4 +32,6 @@ From that, I created the code in ``wip.sh`` but I'm not getting the results I ex
 
 But I'm not even getting that. 
 
+I swear I've done something like this before and without recursion, but can't find any code in my notes to do so. Elsewhere in that thread it is suggested that one issue I may have is that my current schema is parent->child and that flipping that would be better.
+
 Feel free to push any changes/notes you have and thanks in advance for your help.
