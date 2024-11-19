@@ -1,4 +1,4 @@
-# A little Whimsey
+# A Little Whimsey
 ## or "Why I'd Like to Avoid Recursion"
 
 <a href="https://xkcd.com/244/"><img src="https://imgs.xkcd.com/comics/tabletop_roleplaying.png"></a>
